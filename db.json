@@ -1,1 +1,27 @@
-
+{
+  "users": [
+    {
+      "email": "sdf@sdf.saf",
+      "username": "asdfasdf",
+      "id": 1
+    },
+    {
+      "name": "Hank Hill",
+      "username": "hank_hill",
+      "email": "hank@stricklandpropane.com",
+      "password": "pass1234",
+      "id": 2
+    },
+    {
+      "email": "sdf@sdfsdfsfsf.csdf",
+      "username": "asdf",
+      "id": 3
+    },
+    {
+      "username": "safdsdfas",
+      "email": "asdf@2222.22",
+      "name": "",
+      "id": 4
+    }
+  ]
+}

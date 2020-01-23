@@ -10,3 +10,6 @@ npm start
 
 ## Access API
 [http://localhost:3000](http://localhost:3000)
+
+## Routes
+* POST /users
