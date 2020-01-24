@@ -1,4 +1,13 @@
 ## Install
+Clone the Repository
+```console
+git clone git@github.com:aaronshivers/jsonserver.git
+```
+Move into Project Directory
+```console
+cd jsonserver
+```
+Install Dependencies
 ```console
 npm i
 ```
@@ -13,3 +22,5 @@ npm start
 
 ## Routes
 * POST /users
+* GET /users
+* GET /users/:id
